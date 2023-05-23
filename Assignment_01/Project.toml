@@ -1,0 +1,9 @@
+[deps]
+AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageShow = "4e3cecfd-b093-5904-9786-8bbb286a6a31"
+LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+TestImages = "5e47fb64-e119-507b-a336-dd2b206d9990"
